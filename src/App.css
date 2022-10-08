@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Peralta');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.App {
+  background: linear-gradient(111deg, #c537d2, #e95d88 50%, #e448b9);
+  height: 100vh;
+  padding: 3vh;
+}
+
+.Frame{
+  background-color: white;
+  margin: 0;
+  /* height: 95vh; */
+}
+
+.Title{
+  text-align: center;
+  padding: 10px;
+  font-family: 'Peralta';
+  font-size: 50px;
+  background-image: linear-gradient(111deg, #c537d2, #e95d88 50%, #e448b9);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  margin: 5px;
+}
+
+.Wrapper{
+  margin: 0%;
+  display: flex;
+  flex-direction: row;
+}
+
+.Input-box{
+  margin-left: 20px;
+  flex-direction: row;
+  display: inline-block;
+}
+
+.Box-heading{
+  margin: 0;
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+
+.Button-row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.Specs{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.S-content{
+  width: 60%;
+  padding: 20px;
+  display: inline-block;
+}
+
+.Table-div{
+  display: inline-block;
+  margin-right: 20px;
+}
