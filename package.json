@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://garvit170.github.io/NLPFrontend",
+  "homepage": "http://garvit170.github.io/Movie-Genre-Classification",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
