@@ -35,7 +35,7 @@ function createData(name, calories, fat, carbs, protein) {
 
 const rows = [
   createData('Naive Bayes', 42.529),
-  createData('OneVsRest', 46.231),
+  createData('OneVsRest', 46.321),
   createData('MultiLabel KNN', 28.268),
 ];
 
