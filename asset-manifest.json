@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Movie-Genre-Classification/static/css/main.c331521d.css",
-    "main.js": "/Movie-Genre-Classification/static/js/main.191be842.js",
+    "main.js": "/Movie-Genre-Classification/static/js/main.1d6778dc.js",
     "static/js/787.68eab223.chunk.js": "/Movie-Genre-Classification/static/js/787.68eab223.chunk.js",
     "index.html": "/Movie-Genre-Classification/index.html",
     "main.c331521d.css.map": "/Movie-Genre-Classification/static/css/main.c331521d.css.map",
-    "main.191be842.js.map": "/Movie-Genre-Classification/static/js/main.191be842.js.map",
+    "main.1d6778dc.js.map": "/Movie-Genre-Classification/static/js/main.1d6778dc.js.map",
     "787.68eab223.chunk.js.map": "/Movie-Genre-Classification/static/js/787.68eab223.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c331521d.css",
-    "static/js/main.191be842.js"
+    "static/js/main.1d6778dc.js"
   ]
 }
